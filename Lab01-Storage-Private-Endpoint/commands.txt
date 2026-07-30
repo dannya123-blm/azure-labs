@@ -1,0 +1,9 @@
+nslookup azstorage104one.blob.core.windows.net
+
+Test-NetConnection azstorage104one.blob.core.windows.net -Port 443
+
+ipconfig
+
+ping
+
+tracert
